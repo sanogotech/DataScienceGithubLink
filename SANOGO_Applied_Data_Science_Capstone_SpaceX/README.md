@@ -16,29 +16,29 @@ This supervised classification project was carried out as part of the IBM Data S
 The presentation covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch succeess (succesful first stage landing) with classification algorithms. We draw a parallel between SpaceX Falcon9 and ArianeEspace Ariane5 (and coming Ariane6) that was dominating the market of commercial launches until SpaceX put an end to this domination thanks to the reusable boosters concept and induced cost reduction.     
 
 
-#### <ul>[ds-capstone-template-courseraSANOGO - pdf](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/ds-capstone-template-courseraSANOGO.pdf)</ul>
+#### <ul>[ds-capstone-template-courseraSANOGO - pdf](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/ds-capstone-template-courseraSANOGO.pdf)</ul>
 
-#### <ul>[ds-capstone-template-courseraSANOGO - pptx](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/ds-capstone-template-courseraSANOGO.pptx)</ul>
+#### <ul>[ds-capstone-template-courseraSANOGO - pptx](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/ds-capstone-template-courseraSANOGO.pptx)</ul>
 
 ### **SpaceX Data Collection.**
 
 Request to the SpaceX API. <br>
 Clean the requested data. 
 
-#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
+#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
 
 
 ### **Data Wrangling.**
 
 In this lab, we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
-#### <ul>[SpaceX Data Wrangling - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_labs-jupyter-spacex-Data%20wrangling_v3.ipynb)</ul>
+#### <ul>[SpaceX Data Wrangling - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_labs-jupyter-spacex-Data%20wrangling_v3.ipynb)</ul>
 
 ### **Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia**
 
 Web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches. Beautiful soup. 
 
-#### <ul>[Falcon9 webscraping - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_jupyter-labs-webscraping_v4.ipynb))</ul>  
+#### <ul>[Falcon9 webscraping - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_jupyter-labs-webscraping_v4.ipynb))</ul>  
   
  
   
@@ -48,7 +48,7 @@ Understand the Spacex DataSet <br>
 Load the dataset into the corresponding table in a Db2 database. <br>
 Execute SQL queries to answer assignment questions
   
-#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)</ul>
+#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)</ul>
   
 
 ### **EDA Data visualization**
@@ -58,7 +58,7 @@ Perform exploratory Data Analysis and Feature Engineering using Pandas and Matpl
 Preparing Data Feature Engineering<br>
 In this assignment, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is due to the fact that SpaceX can reuse the first stage.
 
-#### <ul>[EDA - Data Visualization - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_jupyter-labs-eda-dataviz-v10.ipynb)</ul>
+#### <ul>[EDA - Data Visualization - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_jupyter-labs-eda-dataviz-v10.ipynb)</ul>
 
  
    
@@ -72,7 +72,7 @@ Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate an
 
 Note: the interactive Notebook doesnot work on Github. Must be downloaded and executed locally. Or on Google Colab.
 
-#### <ul>[Dashboard - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_Build_a_Dashboard_Application_with_Plotly_Dash_v10.ipynb) </ul>
+#### <ul>[Dashboard - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_Build_a_Dashboard_Application_with_Plotly_Dash_v10.ipynb) </ul>
 
 
 ### **Launch Sites Locations Analysis with Folium**
@@ -82,7 +82,7 @@ The launch success rate may depend on many factors such as payload mass, orbit t
 In this lab, you will be performing more interactive visual analytics using Folium.<br>
 Note: The interactive Notebook does not work on Github. It must be downloaded and run locally, with an Anaconda distribution for example. Or on Google Colab. 
   
-#### <ul>[Launch sites - Interactive Notebook with Folium](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_lab_jupyter_launch_site_location_v4.ipynb)
+#### <ul>[Launch sites - Interactive Notebook with Folium](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_lab_jupyter_launch_site_location_v4.ipynb)
 
 
 ### **SpaceX Launch Success. Machine Learning classification**
@@ -90,7 +90,7 @@ Note: The interactive Notebook does not work on Github. It must be downloaded an
 Machine Learning Prediction using Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression. <br>
 Optimization of hyperparameters. 
   
-#### <ul>[Machine Learning - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/SANOGO_Applied_Data_Science_Capstone_SpaceX/blob/main/GH_SpaceX_Machine%20Learning%20Prediction_Part_5_v8_shuffling.ipynb)</ul>
+#### <ul>[Machine Learning - Jupyter Notebook](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/GH_SpaceX_Machine%20Learning%20Prediction_Part_5_v8_shuffling.ipynb)</ul>
 
 
  
