@@ -16,6 +16,7 @@ This supervised classification project was carried out as part of the IBM Data S
 The presentation covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch succeess (succesful first stage landing) with classification algorithms. We draw a parallel between SpaceX Falcon9 and ArianeEspace Ariane5 (and coming Ariane6) that was dominating the market of commercial launches until SpaceX put an end to this domination thanks to the reusable boosters concept and induced cost reduction.     
 
 
+
 #### <ul>[ds-capstone-template-courseraSANOGO - pdf](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/ds-capstone-template-courseraSANOGO.pdf)</ul>
 
 #### <ul>[ds-capstone-template-courseraSANOGO - pptx](https://github.com/sanogotech/DataScienceGithubLink/blob/main/SANOGO_Applied_Data_Science_Capstone_SpaceX/ds-capstone-template-courseraSANOGO.pptx)</ul>
